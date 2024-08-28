@@ -1,0 +1,29 @@
+form {
+    border: 4px solid black;
+    width: 200px;
+    border-radius: 5%;
+    height: 200px;
+    background-color: grey;
+}
+
+body {
+    padding-left: 40%;
+    padding-top: 10%;
+    overflow: hidden;
+    background-color: rgb(25, 27, 31);
+    color: white;
+}
+
+.boton{
+    background-color: black;
+    color: white;
+    margin-left: 65px;
+}
+
+input{
+    margin-left: 5px;
+}
+
+label {
+    margin-left: 10px ;
+}
